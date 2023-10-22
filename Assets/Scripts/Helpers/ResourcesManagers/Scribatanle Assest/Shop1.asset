@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae65801152f64fc40a62673b3e827ade, type: 3}
+  m_Name: Shop1
+  m_EditorClassIdentifier: 
+  items:
+  - itemName: Health Potion 1
+    itemPrice: 50
+    itemIcon: {fileID: 21300000, guid: 62f509868a8ffd54db52ce6dbadd469c, type: 3}
+  - itemName: Health Potion 2
+    itemPrice: 70
+    itemIcon: {fileID: 21300000, guid: 62f509868a8ffd54db52ce6dbadd469c, type: 3}
+  - itemName: Health Potion 3
+    itemPrice: 120
+    itemIcon: {fileID: 21300000, guid: 62f509868a8ffd54db52ce6dbadd469c, type: 3}
+  - itemName: Health Potion 4
+    itemPrice: 80
+    itemIcon: {fileID: 21300000, guid: 62f509868a8ffd54db52ce6dbadd469c, type: 3}
+  - itemName: Health Potion 5
+    itemPrice: 500
+    itemIcon: {fileID: 21300000, guid: 62f509868a8ffd54db52ce6dbadd469c, type: 3}
+  - itemName: Necklace 1
+    itemPrice: 500
+    itemIcon: {fileID: 21300000, guid: 62f509868a8ffd54db52ce6dbadd469c, type: 3}
+  - itemName: Necklace 2
+    itemPrice: 200
+    itemIcon: {fileID: 21300000, guid: 490025c7076d18742b170b3401afb60f, type: 3}
+  - itemName: Necklace 3
+    itemPrice: 400
+    itemIcon: {fileID: 21300000, guid: 9854575c69abb0b4c922efe840135c0d, type: 3}
+  - itemName: Necklace 4
+    itemPrice: 450
+    itemIcon: {fileID: 21300000, guid: b37b9787a655c1549ac9ed459e01ac1d, type: 3}
+  - itemName: Necklace 5
+    itemPrice: 150
+    itemIcon: {fileID: 21300000, guid: d85deb3e5ada97e4cb1fee7ef696f04e, type: 3}
+  _Items:
+  - itemName: Health Potion 1
+    itemPrice: 50
+    itemIcon: {fileID: 21300000, guid: 62f509868a8ffd54db52ce6dbadd469c, type: 3}
+  - itemName: Health Potion 2
+    itemPrice: 70
+    itemIcon: {fileID: 21300000, guid: 62f509868a8ffd54db52ce6dbadd469c, type: 3}
+  - itemName: Health Potion 3
+    itemPrice: 120
+    itemIcon: {fileID: 21300000, guid: 62f509868a8ffd54db52ce6dbadd469c, type: 3}
+  - itemName: Health Potion 4
+    itemPrice: 80
+    itemIcon: {fileID: 21300000, guid: 62f509868a8ffd54db52ce6dbadd469c, type: 3}
+  - itemName: Health Potion 5
+    itemPrice: 500
+    itemIcon: {fileID: 21300000, guid: 62f509868a8ffd54db52ce6dbadd469c, type: 3}
+  - itemName: Necklace 1
+    itemPrice: 500
+    itemIcon: {fileID: 21300000, guid: 62f509868a8ffd54db52ce6dbadd469c, type: 3}
+  - itemName: Necklace 2
+    itemPrice: 200
+    itemIcon: {fileID: 21300000, guid: 490025c7076d18742b170b3401afb60f, type: 3}
+  - itemName: Necklace 3
+    itemPrice: 400
+    itemIcon: {fileID: 21300000, guid: 9854575c69abb0b4c922efe840135c0d, type: 3}
+  - itemName: Necklace 4
+    itemPrice: 450
+    itemIcon: {fileID: 21300000, guid: b37b9787a655c1549ac9ed459e01ac1d, type: 3}
+  - itemName: Necklace 5
+    itemPrice: 150
+    itemIcon: {fileID: 21300000, guid: d85deb3e5ada97e4cb1fee7ef696f04e, type: 3}
+  - itemName: Ring 1
+    itemPrice: 120
+    itemIcon: {fileID: 21300000, guid: 7e7bd16a933be74438069f76ebd6558b, type: 3}
+  - itemName: Ring 2
+    itemPrice: 150
+    itemIcon: {fileID: 21300000, guid: d28776bd3bfcaaf47832c8533b7d29f6, type: 3}
+  - itemName: Ring 3
+    itemPrice: 130
+    itemIcon: {fileID: 21300000, guid: f16d2a06fa4b3114fbadec2f08ce8c48, type: 3}
+  - itemName: Ring 4
+    itemPrice: 80
+    itemIcon: {fileID: 21300000, guid: f2482ea04e289a44da1e63be69ab2e80, type: 3}
+  - itemName: Ring 5
+    itemPrice: 100
+    itemIcon: {fileID: 21300000, guid: 8819951404c189540a881cea49c182e4, type: 3}

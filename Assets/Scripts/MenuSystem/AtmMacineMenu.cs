@@ -26,9 +26,10 @@ public class AtmMacineMenu : MonoBehaviour
     {
         depositeButton.onClick.AddListener(DepositeHandler);
         witdrawButton.onClick.AddListener(WithDrawHandler);
-        witdrawButton.onClick.AddListener(ExitHandler);
+        exitButton.onClick.AddListener(ExitHandler);
 
         slider.onValueChanged.AddListener(OnMoneyAmoutSliderChange);
+
     }
 
     private void OnMoneyAmoutSliderChange(float arg0)
